@@ -5,7 +5,7 @@
 	},
 	"id": "bluescratch.preview_requested_stars",
 	"name": "Preview Requested Stars",
-	"version": "v1.0.0",
+	"version": "v1.0.2",
 	"developer": "Bluescratch",
 	"description": "Preview Stars Ma`e",
 	"dependencies": {
