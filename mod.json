@@ -1,7 +1,8 @@
 {
 	"geode": "4.9.0",
 	"gd": {
-		"win": "2.2074"
+		"win": "2.2074",
+		"android": "2.2074"
 	},
 	"id": "bluescratch.preview_requested_stars",
 	"name": "Preview Requested Stars",
@@ -12,4 +13,3 @@
 		"geode.node-ids": ">=v1.20.0"
 	}
 }
-
