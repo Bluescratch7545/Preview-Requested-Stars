@@ -14,7 +14,7 @@ class $modify(RateStarsLayer) {
 		m_mainLayer->getChildByType<CCMenu>(0)
 			->getChildByType<CCMenuItemSpriteExtra>(requested - 1)
 			->getChildByType<ButtonSprite>(0)
-			->setColor(ccColor3B(122, 127, 255));
+			->setColor(ccColor3B(0, 255, 0));
 		
 		return true;
 	}
