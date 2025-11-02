@@ -2,14 +2,16 @@
 	"geode": "4.9.0",
 	"gd": {
 		"win": "2.2074",
-		"android": "2.2074"
+		"android": "2.2074",
+		"mac": "2.2074"
 	},
 	"id": "bluescratch.preview_requested_stars",
 	"name": "Preview Requested Stars",
-	"version": "v1.1.0",
+	"version": "v1.1.1",
 	"developer": "Bluescratch",
 	"description": "Preview Stars Ma`e",
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
 	}
 }
+
