@@ -7,13 +7,14 @@
 	},
 	"id": "bluescratch.preview_requested_stars",
 	"name": "Preview Requested Stars",
-	"version": "v1.1.1",
+	"version": "v1.2.0",
 	"developer": "Bluescratch",
 	"description": "Preview Stars Ma`e",
 	"dependencies": {
 		"geode.node-ids": ">=v1.20.0"
 	}
 }
+
 
 
 
