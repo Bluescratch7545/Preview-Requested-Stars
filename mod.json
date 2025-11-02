@@ -1,7 +1,13 @@
 {
 	"geode": "4.9.0",
 	"gd": {
+<<<<<<< HEAD
 		"win": "2.2074"
+=======
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074"
+>>>>>>> e76b6f5e95d88080e130c3ecbeaa4f1aa7b7aa98
 	},
 	"id": "bluescratch.preview_requested_stars",
 	"name": "Preview Requested Stars",
@@ -12,3 +18,4 @@
 		"geode.node-ids": ">=v1.20.0"
 	}
 }
+
