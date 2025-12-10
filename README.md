@@ -3,5 +3,5 @@
 
 mod ig
 
-thanks to [hiimjasmine00](github.com/hiimjasmine00) for helping out
+thanks to [hiimjasmine00](https://github.com/hiimjasmine00) for helping out
 

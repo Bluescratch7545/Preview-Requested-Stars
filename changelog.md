@@ -1,3 +1,6 @@
+# 1.2.2
+- fixed formating error in about.md & readme.md
+
 # 1.2.1
 uhh idk
 
