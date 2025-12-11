@@ -8,12 +8,13 @@
 	},
 	"id": "bluescratch.preview_requested_stars",
 	"name": "Preview Requested Stars",
-	"version": "v1.2.2",
+	"version": "v1.2.3",
 	"developer": "Bluescratch",
-	"description": "Preview Stars Mate"
+	"description": "Preview Stars Mate",
+	"dependencies": {
+		"geode.node-ids": ">=v1.20.0"
+	},
+	"links": {
+		"source": "https://github.com/Bluescratch7545/Preview-Requested-Stars"
+	}
 }
-
-
-
-
-

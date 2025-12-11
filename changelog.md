@@ -1,3 +1,6 @@
+# 1.2.3
+- Made the Logo better so that no one can complain and added github repo link
+
 # 1.2.2
 - fixed formating error in about.md & readme.md
 
